@@ -1,0 +1,43 @@
+/* html{
+  background-image: url('../images/matrixpic.jpeg');
+  background-size: cover;
+} */
+
+.foster-image{
+    background-image: url('../images/fosternew.jpg');
+    background-size: contain;
+    height: 185px;
+    width: 28%;
+    max-width: 100%;
+  }
+
+  .market-project{
+    background-image: url('../images/market.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    max-width:100%;
+  }
+
+  .movie-project{
+    background-image: url('../images/movies.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    max-width:42%;
+    margin-bottom: -14px;
+  }
+  
+  
+  .soccer-project{
+    background-image: url('../images/soccer.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    max-width:100%;
+  }
+
+  h1{
+      font-size: 1rem;
+      color:#1ca086;
+  }
