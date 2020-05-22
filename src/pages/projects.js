@@ -7,21 +7,19 @@ export default function Projects() {
 
   return (
     <Layout>
-     <div class="slider">
-  
-  <a href="#slide-1">Market</a>
-  <a href="#slide-2">Soccer</a>
-  <a href="#slide-3">Movies</a>
-
-  <div class="slides">
-    <div id="slide-1" >
-    </div>
-        <div id="slide-2">
-    </div>
-        <div id="slide-3">
-    </div>
-  </div>
-</div>
+        <div class="slider">
+            <a href="#slide-1">Market2Table</a>
+            <a href="#slide-2">Top Movies</a>
+            <a href="#slide-3">Euro Slider</a>
+            <div class="slides">
+                <div id="slide-1" >
+                </div>
+                <div id="slide-2">
+                </div>
+                <div id="slide-3">
+                </div>
+            </div>
+        </div>
     </Layout>
   )
 }
