@@ -48,6 +48,7 @@ html{
     width: 300px;
     text-align: center;
     overflow: hidden;
+    margin-left: 35%;
   }
   
   .slides {
