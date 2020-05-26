@@ -20,7 +20,7 @@ export default function Projects() {
                 </div>
             </div>
           </div>
-          <div>
+          <div class="production-links">
             <a href="https://market2table.herokuapp.com/">Market2Table Production Site</a>              
             <a href="#slide-2">Top Movies Production Site</a>
             <a href="#slide-3">Euro SliderProduction Site</a>

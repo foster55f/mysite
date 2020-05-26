@@ -96,9 +96,7 @@ html{
     align-items: center;
     font-size: 100px;
   }
-  .slides > div:target {
-  /*   transform: scale(0.8); */
-  }
+
   .author-info {
     background: rgba(0, 0, 0, 0.75);
     color: white;
@@ -139,4 +137,11 @@ html{
   }
   .slider > a:focus {
     background: #000;
+  }
+
+  .production-links{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
   }
