@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <Layout>
         <div class="slider">
-            <a href="#slide-1">Market2Table</a>
+              <a href="#slide-1">Market2Table</a>              
             <a href="#slide-2">Top Movies</a>
             <a href="#slide-3">Euro Slider</a>
             <div class="slides">
@@ -19,7 +19,12 @@ export default function Projects() {
                 <div id="slide-3">
                 </div>
             </div>
-        </div>
+          </div>
+          <div>
+            <a href="#slide-1">Market2Table Production Site</a>              
+            <a href="#slide-2">Top Movies Production Site</a>
+            <a href="#slide-3">Euro SliderProduction Site</a>
+          </div>
     </Layout>
   )
 }
