@@ -1,9 +1,7 @@
 import React from "react";
 import Layout from "../components/layout";
 
-
-export default function Projects() {
-
+const Projects = ()=> {
 
   return (
     <Layout>
@@ -28,3 +26,4 @@ export default function Projects() {
     </Layout>
   )
 }
+export default Projects
