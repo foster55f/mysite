@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 
 
-export default function Contact() {
+const Contact = () => {
   return (
     <Layout>
       <div>
@@ -14,3 +14,5 @@ export default function Contact() {
     </Layout>
   )
 }
+
+export default Contact
