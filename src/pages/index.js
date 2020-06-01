@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 
-export default function Home() {
+const Home =() =>{
   return (
     <Layout>
       <h1>Hi! I'm Foster, and I'm a Software Developer based in Denver, Colorado</h1>
@@ -36,3 +36,5 @@ export default function Home() {
     </Layout>
   );
 }
+
+export default Home
