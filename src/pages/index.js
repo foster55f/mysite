@@ -6,7 +6,6 @@ const Home =() =>{
     <Layout>
       <h1>Hi! I'm Foster, and I'm a Software Developer based in Denver, Colorado</h1>
       <div>
-            <h2>About me</h2>
         <div style={{marginBottom:'50px'}}>
             <a href='https://github.com/foster55f' style={{marginRight:'100px'}}>My GitHub</a>
             <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/'>My Linkedin</a>            
