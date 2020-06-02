@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 const Home =() =>{
   return (
     <Layout>
-      <h1>Hi! I'm Foster, and I'm a Software Developer based in Denver, Colorado</h1>
+      <h1>Hi! I'm a Software Developer based in Denver, Colorado</h1>
       <div>
         <div style={{marginBottom:'50px'}}>
             <a href='https://github.com/foster55f' style={{marginRight:'100px'}}>My GitHub</a>
@@ -31,6 +31,11 @@ const Home =() =>{
             on any team.
             </p>
         </div>
+        <footer>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </footer>
         </div>
     </Layout>
   );
