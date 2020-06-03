@@ -1,14 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
+import { black } from "color-name";
 
 const Home =() =>{
   return (
     <Layout>
       <h1>Hi! I'm a Software Developer based in Denver, Colorado</h1>
-      <div>
+      <div style={{ display: 'flex',flexDirection:'column',alignItems:'center'}} >
         <div style={{marginBottom:'50px'}}>
-            <a href='https://github.com/foster55f' style={{marginRight:'100px'}}>My GitHub</a>
-            <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/'>My Linkedin</a>            
+          <a href='https://github.com/foster55f' style={{marginRight:'100px', color:'black'}}>My GitHub</a>
+          <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/' style={{marginRight:'100px', color:'black'}}>My Linkedin</a>    
         </div>
         <div>
             <p>
