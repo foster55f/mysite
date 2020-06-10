@@ -7,7 +7,7 @@ const Home =() =>{
     <Layout>
       <h1>Hi! I'm a Software Developer based in Denver, Colorado</h1>
       <div style={{ display: 'flex',flexDirection:'column',alignItems:'center'}} >
-        <div style={{marginBottom:'50px'}}>
+        <div style={{ marginBottom: '50px', marginLeft: '85px'}}>
           <a href='https://github.com/foster55f' style={{marginRight:'100px', color:'darkslategray'}}>My GitHub</a>
           <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/' style={{marginRight:'100px', color:'darkslategray'}}>My Linkedin</a>    
         </div>
@@ -36,6 +36,9 @@ const Home =() =>{
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {` `}
+          and hosted with <a href="https://aws.amazon.com/">AWS</a>
+          {` `}
         </footer>
         </div>
     </Layout>
