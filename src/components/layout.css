@@ -156,3 +156,29 @@ html{
   a{
     color:darkslategray;
   }
+
+  @media screen and (max-width: 615px){
+    h1{
+      font-size:25px;
+    }
+
+    div{
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header{
+      flex-direction: column;
+      display: flex;
+    }
+
+    .slider{
+      display: none;
+    }
+
+    .production-links{
+      display: flex;
+      flex-direction: column;
+    }
+  }
