@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import "./layout.css"
 
 const ListLink = props => (
-  <li style={{ display: `inline-block`, marginRight: `1rem` }}>
+  <li style={{ display: `inline-block`, marginRight: `1rem`, }}>
     <Link to={props.to}>{props.children}</Link>
   </li>
 )
@@ -15,7 +15,7 @@ export default function Layout({ children }) {
         <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
           <h3 style={{ display: `inline`, color:'#1ca086' }}>Foster Taylor Portfolio</h3>
         </Link>
-        <ul style={{ listStyle: `none`, float: `right` }}>
+        <ul style={{ listStyle: `none`, float: `right`, }}>
           <ListLink to="/">Home</ListLink>
           <ListLink to="/projects/">Projects</ListLink>
           <ListLink to="/contact/">Contact</ListLink>
