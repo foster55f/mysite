@@ -35,7 +35,7 @@ html{
     width:90%;
   }
 
-  h1 { color:#1ca086; 
+  h1 { color:darkslategray; 
     font-family: 'Helvetica Neue', sans-serif; 
     font-size: 35px; font-weight: bold; 
     letter-spacing: -1px; line-height: 1; 
@@ -43,9 +43,9 @@ html{
   }
 
   
-  p { color: #1ca086; 
+  p { color:darkslategray; 
     font-family: 'Helvetica Neue', sans-serif; 
-    font-size: 14px; 
+    font-size: 18px; 
     line-height: 24px; 
     margin: 0 0 24px; 
     text-align: justify; 
@@ -136,6 +136,7 @@ html{
     border-radius: 50%;
     margin: 0 0 0.5rem 0;
     position: relative;
+    color: darkslategray;
   }
   .slider > a:active {
     top: 1px;
@@ -149,4 +150,9 @@ html{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    color:darkslategray; 
+  }
+
+  a{
+    color:darkslategray;
   }

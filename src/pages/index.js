@@ -8,8 +8,8 @@ const Home =() =>{
       <h1>Hi! I'm a Software Developer based in Denver, Colorado</h1>
       <div style={{ display: 'flex',flexDirection:'column',alignItems:'center'}} >
         <div style={{marginBottom:'50px'}}>
-          <a href='https://github.com/foster55f' style={{marginRight:'100px', color:'black'}}>My GitHub</a>
-          <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/' style={{marginRight:'100px', color:'black'}}>My Linkedin</a>    
+          <a href='https://github.com/foster55f' style={{marginRight:'100px', color:'darkslategray'}}>My GitHub</a>
+          <a href='https://www.linkedin.com/in/foster-taylor-455aa9192/' style={{marginRight:'100px', color:'darkslategray'}}>My Linkedin</a>    
         </div>
         <div>
             <p>
