@@ -18,9 +18,7 @@ const Home =() =>{
             Agile. At Turing, I was passionate about learning and collaborating with team 
             members, and through Agile development we were able to come together as a team 
             at the start of every sprint. My teams were continuously able to break down large 
-            problems into small chunks and reflect on goals in our retros. At Turing, I also 
-            developed great relationships with mentors and found great benefit from listening 
-            and learning from others. 
+            problems into small chunks and reflect on goals in our retros. 
 
             I’m dedicated to continuous self-growth. Since graduating, I have 
             continued coding every day to keep my skills fresh, but also to 
