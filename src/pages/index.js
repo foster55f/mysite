@@ -13,12 +13,9 @@ const Home =() =>{
         <div>
             <p>
             My career started in finance, before I moved on to find a more challenging and 
-            rewarding career at the Turing School of Software and Design. Turing provided 
-            me with strong experience developing applications with React, JavaScript, and 
-            Agile. At Turing, I was passionate about learning and collaborating with team 
-            members, and through Agile development we were able to come together as a team 
-            at the start of every sprint. My teams were continuously able to break down large 
-            problems into small chunks and reflect on goals in our retros. 
+            rewarding career at the Turing School of Software and Design. At Turing, I was 
+            passionate about learning and collaborating with team members, and through Agile 
+            development we were able to come together as a team at the start of every sprint. 
 
             I’m dedicated to continuous self-growth. Since graduating, I have 
             continued coding every day to keep my skills fresh, but also to 
