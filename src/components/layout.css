@@ -152,7 +152,7 @@ html{
   }
 
   a{
-    color:darkslategray;
+    color:black;
   }
 
   @media screen and (max-width: 615px){
