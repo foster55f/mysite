@@ -152,7 +152,7 @@ html{
   }
 
   a{
-    color:black;
+    color:red;
   }
 
   @media screen and (max-width: 615px){
